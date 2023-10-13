@@ -1,5 +1,9 @@
 # A Basic Stable IDE config for Neovim
 
+forked from: https://github.com/LunarVim/Launch.nvim
+
+TODO: add neoscroll https://github.com/karb94/neoscroll.nvim
+
 > Why does this repo exist?
 
 This config attempts to provide a rock solid fully featured starting point for someone new to Neovim, or just tired of maintaining the basic IDE components of their config.
